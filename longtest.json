@@ -1,7 +1,7 @@
 {
   "_override_link_account" : {
     "bundle_signin" : {
-      "password" : "Enter your password",
+      "password" : "Enter your pas!sword",
       "username" : "Enter your username",
       "email" : "Enter your email:"
     }
